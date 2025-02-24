@@ -3,21 +3,22 @@
 <br><br>
 
 
-Aku **Dila Aura Futri**.<br>  
-Saya seorang **Mahasiswa** semester 8 jurusan di bidang teknik informatika.<br>  
+I'm **Dila Aura Futri**.<br>  
+I am an **8th-semester student** majoring in Informatics Engineering.<br>  
 
-Saat ini saya sedang fokus pada Artificial Intelligence khususnya di bidang machine learning.<br>  
-Beberapa keterampilan saya meliputi:  
-- 🌟 Scrapping data  
-- 🚀 Klasifikasi gambar  
-- 💻 peramalan/forecasting  
+Currently, I am focusing on **Artificial Intelligence**, particularly in the field of **Machine Learning**.<br>  
 
-Saya juga memiliki pengalaman dalam mengaplikasikan arsitektur CNN dalam klasifikasi jenis kulit gambar.  
+My skills include:  
+- 🌟 Data Scraping  
+- 🚀 Image Classification  
+- 💻 Forecasting  
 
-Jika kamu tertarik untuk berdiskusi atau berkolaborasi, jangan ragu untuk menghubungi saya melalui [LinkedIn](https://www.linkedin.com/in/dilaaurafutri/) atau cek proyek-proyek saya di repositori ini!  
+I also have experience implementing **Convolutional Neural Networks (CNN)** for **skin type image classification**.  
+If you're interested in discussing or collaborating, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dilaaurafutri/) or explore my projects in this repository!  
 
-Terima kasih sudah mampir! 😊
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dilalovegood&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" alt="Dila's Github Stats">
+Thanks for stopping by! 😊  
+
+<div align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dilalovegood&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" alt="Dila's Github Stats">
 <br>
 <br>
