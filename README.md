@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 
+Aku **Dila Aura Futri**.<br>  
+Saya seorang **Mahasiswa** semester 8 jurusan di bidang teknik informatika.<br>  
 
-<!--
-**Dilalovegood/Dilalovegood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saat ini saya sedang fokus pada Artificial Intelligence khususnya di bidang machine learning.<br>  
+Beberapa keterampilan saya meliputi:  
+- 🌟 Scrapping data  
+- 🚀 Klasifikasi gambar  
+- 💻 peramalan/forecasting  
 
-Here are some ideas to get you started:
+Saya juga memiliki pengalaman dalam mengaplikasikan arsitektur CNN dalam klasifikasi jenis kulit gambar.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Jika kamu tertarik untuk berdiskusi atau berkolaborasi, jangan ragu untuk menghubungi saya melalui [LinkedIn](https://www.linkedin.com/in/dilaaurafutri/) atau cek proyek-proyek saya di repositori ini!  
+
+Terima kasih sudah mampir! 😊
