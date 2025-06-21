@@ -9,7 +9,7 @@ I am an **8th-semester student** majoring in Informatics Engineering.<br>
 Currently, I am focusing on **Artificial Intelligence**, particularly in the field of **Machine Learning**.<br>  
 
 My skills include:  
-- 🌟 Data Scraping  
+- 🌟 Data Analysis  
 - 🚀 Image Classification  
 - 💻 Forecasting  
 
